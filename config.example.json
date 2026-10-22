@@ -1,0 +1,11 @@
+{
+  "task_id": "daily-streak",
+  "timezone": "Asia/Shanghai",
+  "friends": ["请填写好友昵称"],
+  "messages": [{"type": "streak"}],
+  "send_interval_seconds": {"min": 3, "max": 8},
+  "prevent_duplicates": true,
+  "continue_on_error": true,
+  "target_open_retries": 1,
+  "target_open_timeout_seconds": 15
+}
